@@ -1,0 +1,1 @@
+[20-Feb-2013 22:07:12] WordPress database error Duplicate column name 'start_month' for query ALTER TABLE wrd_spidercalendar_calendar  ADD start_month varchar(255); made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), call_user_func_array, spider_calendar_chech_update
